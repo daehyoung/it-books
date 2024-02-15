@@ -1,3 +1,7 @@
+
+ ## typescript
+ * https://bento.io/topic/typescript
+ * https://bento.io/topic/javascript
  
 
 ## Backbone.js
